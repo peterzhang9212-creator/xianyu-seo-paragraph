@@ -1,0 +1,40 @@
+{
+  "assembly": {
+    "excel_path": "D:/2 搞钱项目/程序测试/好用的封装程序/闲鱼教师SEO项目/R2全国省份.xlsx",
+    "parent_folder": "D:/2 搞钱项目/DH的店/3发送文件/260612中职机电",
+    "fixed_suffix": "中职机电专业知识中等职业学校教师招聘考试笔试真题库",
+    "cover_folder": "D:/2 搞钱项目/DH的店/1课程原始素材/封面素材/机电-封面",
+    "detail_folder": "D:/2 搞钱项目/DH的店/1课程原始素材/内文素材/中职机电-详情页"
+  },
+  "watermark": {
+    "source_root": "D:\\2 搞钱项目\\DH的店\\3发送文件\\260612教育综合招聘",
+    "watermark_text": "德虎信息铺的店",
+    "font_scale": 0.75,
+    "spacing_scale": 1.5,
+    "opacity": 60
+  },
+  "upload_sheet": {
+    "content_path": "D:\\下载\\0252小红书SEO正文内容撰写-自动化_教师专用数据表-闲鱼 (3).xlsx",
+    "material_root": "D:\\2 搞钱项目\\DH的店\\4合集\\0612-2",
+    "output_path": "D:\\2 搞钱项目\\DH的店\\4合集\\0612-2\\闲鱼自动上传模板.xlsx"
+  },
+  "subfolder_export": {
+    "root_path": "D:\\2 搞钱项目\\DH的店\\4合集\\0612-2",
+    "output_path": "D:\\2 搞钱项目\\DH的店\\4合集\\0612-2\\subfolders_20260612_024359.xlsx"
+  },
+  "publish": {
+    "excel_path": "D:/2 搞钱项目/DH的店/4合集/0612-1/闲鱼自动上传模板 - 2.xlsx",
+    "primary_spec_name": "试看1页教育综合",
+    "primary_price": "0.5",
+    "secondary_spec_name": "专业知识（送教育综合）",
+    "secondary_price": "17.9",
+    "stock": 200,
+    "start_url": "https://www.goofish.com/"
+  },
+  "state": {
+    "last_assembly_output": "D:\\2 搞钱项目\\DH的店\\3发送文件\\260612中职机电",
+    "last_watermark_output": "D:\\2 搞钱项目\\DH的店\\3发送文件\\260612教育综合招聘_水印",
+    "last_upload_sheet": "D:/2 搞钱项目/DH的店/4合集/0612-1/闲鱼自动上传模板 - 2.xlsx",
+    "last_content_path": "D:\\下载\\0252小红书SEO正文内容撰写-自动化_教师专用数据表-闲鱼 (3).xlsx"
+  }
+}
